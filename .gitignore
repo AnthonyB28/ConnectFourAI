@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+Debug/
+Release/
+
 # Folder config file
 Desktop.ini
 
@@ -41,3 +44,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.tlog
+*.pdb
+*.idb
+*.suo
+*.filters
+*.opensdf
+*.sdf
